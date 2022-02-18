@@ -8,8 +8,7 @@ class Dinosaur:
         
               
         
-Dino = Dinosaur('Dino', '500', '300')
-Tim = Dinosaur('Tim', '450', '300')
-Sid = Dinosaur('Sid', '680', '260')
-        
-        
+
+   
+   
+   
