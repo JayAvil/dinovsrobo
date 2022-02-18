@@ -9,9 +9,28 @@ class Character:
             self.health = health
             self.attack_power = attack_power 
             
+
+class Robot:
+
+    def __init__(self, name, health, weapon, attack_power):
+        self.name = name
+        self.health = health
+        self.weapon = weapon
+        self.attack_power = attack_power
+
+
+class Dinosaur:
+
+    def __init__(self, name, health, attack_power):
+        self.name = name
+        self.health = health
+        self.attack_power = attack_power
          
-RoboFleet = Fleet([Voltron, Megazord, Optimus])
-DinoHerd = Herd([Tyran, Veloce, Megalo])
+         
+         
+         
+         
+         
 
 
 
